@@ -8,11 +8,14 @@
     },
     "files": [
         "README.md",
-        "main.ts"
+        "main.ts",
+        "README.md",
+        "shims.ts",
+        "enums.ts"
     ],
     "testFiles": [
         "test.ts"
     ],
     "public": false,
-    "additionalFilePaths": []
+    "preferredEditor": "tsprj"
 }
